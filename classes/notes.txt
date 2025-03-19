@@ -1,0 +1,7 @@
+Class layout is:
+
+className
+
+className.get_times(start_time):
+    - Return a list of tuples of the form:
+      [(sound_filepath, time), ...] where sound_filepath is a str and time is a float
